@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bullshit Bingo Plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-02 20:02+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lars c. Bernstein <lars.bernstein@gmx.de>\n"
+"Language-Team: Lars C. Bernstein <lars.bernstein@gmx.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: d:\\eclipse\\workspace\\bullshitbingo\n"
+"X-Poedit-SearchPath-0: d:\\eclipse\\workspace\\bullshitbingo\n"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:16
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:439
+msgid "Bullshit Bingo Settings"
+msgstr "Bullshit Bingo Einstellungen"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:17
+msgid "Bullshit Bingo"
+msgstr "Bullshit Bingo"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:140
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:237
+msgid "Database error."
+msgstr "Datenbankfehler."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:142
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:239
+#, php-format
+msgid "%d buzzword(s) deleted from the database."
+msgstr "%d Schlagwort(e) wurde(n) aus der Datenbank entfernt."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:145
+#, php-format
+msgid "%d buzzword(s) successfully updated."
+msgstr "%d Schlagwort(e) wurde(n) erfolgreich aktualisiert."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:172
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:273
+msgid "Please enter a buzzword"
+msgstr "Bitte ein Schlagwort eingeben"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:212
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:398
+#, php-format
+msgid "The buzzword \"%s\" already exists within the tag \"%s\"."
+msgstr "Das Schlagwort \"%s\" existiert bereits unter der Kategorie \"%s\"."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:216
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:403
+#, php-format
+msgid "The buzzword \"%s\" tagged \"%s\" was successfully added to the database."
+msgstr "Das Schlagwort \"%s\" in der Kategorie \"%s\" wurde der Datenbank erfolgreich hinzugefügt."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:225
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:328
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:413
+msgid "Insufficient rights to fulfill request."
+msgstr "Unzureichende Rechte um die Anfrage auszuführen."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:244
+msgid "Nothing to delete."
+msgstr "Keine Datensätze zum Löschen vorhanden."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:314
+msgid "Unable to edit the buzzword."
+msgstr "Das Schlagwort konnte nicht geändert werden."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:318
+msgid "The buzzword was successfully edited."
+msgstr "Das Schlagwort wurde erfolgreich geändert."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:364
+msgid "Please enter at least one buzzword"
+msgstr "Bitte mindestens ein Schlagwort eingeben"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:440
+msgid "Manage buzzwords"
+msgstr "Schlagworte verwalten"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:444
+msgid "Bulk actions"
+msgstr "Massenbearbeitung"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:445
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:656
+msgid "Delete"
+msgstr "Löschen"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:446
+msgid "Toggle visibility"
+msgstr "Sichtbarkeit umschalten"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:447
+msgid "Change tag"
+msgstr "Kategorie ändern"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:450
+msgid "none"
+msgstr "keine"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:464
+msgid "Apply"
+msgstr "Ausführen"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:467
+msgid "Display"
+msgstr "Zeige"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:473
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:731
+msgid "Buzzwords"
+msgstr "Schlagworte"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:478
+msgid "from"
+msgstr "aus"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:480
+msgid "all"
+msgstr "alle"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:489
+msgid "tag"
+msgstr "Kategorie"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:584
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:678
+msgid "Page"
+msgstr "Seite"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:584
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:678
+msgid "of"
+msgstr "von"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:654
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:707
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:742
+msgid "Yes"
+msgstr "Ja"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:654
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:706
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:741
+msgid "No"
+msgstr "Nein"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:655
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:656
+#, php-format
+msgid ""
+"You are about to delete the buzzword &quot;%s&quot;.\\n"
+"Click &quot;Cancel&quot; to keep it or &quot;OK&quot; to delete it."
+msgstr ""
+"Das Schlagwort &quot;%s&quot; wird gelöscht.\\n"
+"Klicke &quot;Abbrechen&quot; um es zu behalten oder &quot;OK&quot; um es zu löschen."
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:682
+msgid "Add a new buzzword"
+msgstr "Neues Schlagwort hinzufügen"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:686
+msgid "Edit a buzzword"
+msgstr "Schlagwort bearbeiten"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:686
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:760
+msgid "ID"
+msgstr "ID"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:692
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:735
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:763
+msgid "Tag"
+msgstr "Tag"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:696
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:766
+msgid "Buzzword"
+msgstr "Schlagwort"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:700
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:769
+msgid "URL"
+msgstr "URL"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:704
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:739
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:772
+msgid "Visible"
+msgstr "Sichtbar"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:714
+msgid "Add buzzword"
+msgstr "Schlagwort hinzufügen"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:718
+msgid "Apply changes"
+msgstr "Änderungen übernehmen"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:728
+msgid "Bulk add buzzwords"
+msgstr "Mehrere Schlagworte hinzufügen"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:731
+msgid "(one word per line)"
+msgstr "(ein wort pro Zeile)"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:735
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:739
+msgid "(applies to all words above)"
+msgstr "(für alle obigen Worte)"
+
+#: d:\eclipse\workspace\bullshitbingo/bullshitbingo-adminmenu.php:746
+msgid "Add buzzwords"
+msgstr "Schlagworte hinzufügen"
+
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
